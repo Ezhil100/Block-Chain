@@ -1,0 +1,3 @@
+The blockchain stores information electronically. They play a crucial role in the cryptocurrency system and maintain a secure and decentralized record of transactions. Blockchain definition includes a distributed database shared among nodes of a computer network.
+
+Blockchain collects information in the form of blocks. Each block has a specific capacity, and when it gets filled, it closes completely and is linked to the previously filled block, forming a 'blockchain'. New information is fed into a newly formed block. A timestamp is added when a filled block is added to the chain. The blockchain structure makes an irreversible timeline of data in decentralized data.
